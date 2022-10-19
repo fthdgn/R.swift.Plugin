@@ -1,0 +1,15 @@
+{
+    "schemaVersion": "1.0",
+    "artifacts": {
+        "rswift": {
+            "type": "executable",
+            "version": "6.1.0",
+            "variants": [
+                {
+                    "path": "rswift",
+                    "supportedTriples": ["x86_64-apple-macosx", "arm64-apple-macosx"]
+                },
+            ]
+        }
+    }
+}
